@@ -1,8 +1,8 @@
-package view;
+package view.persistence;
 
 /**
  *
- * @author usuario
+ * @author callmebigpoppa22
  */
 public class ExchangeRateLoader {
     

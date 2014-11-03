@@ -1,10 +1,10 @@
-package view;
+package view.ui;
 
 import model.Exchange;
 
 /**
  *
- * @author usuario
+ * @author callmebigpoppa22
  */
 public class ExchangeDialog {
 
